@@ -94,7 +94,7 @@ export default function Home() {
             </section>
 
 
-            <div className="asjinbdhagsd">
+            <div className="new">
                             
                                      <h2>Notícias</h2>
                             <section className="news container py-md">
