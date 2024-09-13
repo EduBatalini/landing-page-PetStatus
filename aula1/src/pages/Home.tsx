@@ -9,7 +9,7 @@ import "../styles/noticias.css";
 
 
 
-import HeroRectangleOne from "../assets/img/RectangleOne.png";
+import HeroRectangleOne from "../assets/img/rectangleOne.png";
 import HeroRectangleTwo from "../assets/img/RectangleTwo.png";
 
 
